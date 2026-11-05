@@ -1,0 +1,16 @@
+{
+  "name": "farm-csa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bramblecut Farm: a Nuxt site",
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^4.6.0"
+  }
+}
